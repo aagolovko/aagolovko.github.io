@@ -6,24 +6,55 @@
 - Content of articles: in confluence. für linkedin wird Teaser generiert.
   KI arbeitet mit Confluence über Tool für unterstützng. In GIT wird
   nichts verwaltet.
+- zusammenfassung für PACE projekt
+- zusammenfassung für Blueprint für Medien bei Jambit, inkl. methodologie (dump blueprint seiten)
+- Список сертифікацій у Антона - подивитися, запитання у компанії чи можна було би з ними такі зробити?
+- visitenkarte mit qr für meine webseite
+- technische fragen/antwort katalog. kann auch benutzt werden, wenn ich jemanden einstellen soll.
+- befrage mich für die wichtigsten springboot konzepten
+- KI präsentation noch kürzer machen
+
+mit AI flüßig reden. Er befragt mich beispielsweise, und ich geben ein Antwort. Er beurteilt, gibt feedback,
+entdeckt Lücken.
 
 # Job Search workflow
 
 Doku Input
+
 * Stellenausschreibung
 * CV
-* Inof (LinkedIn, XING) Inverviewer
+* Info (LinkedIn, XING) Inverviewer
 
-Ein Interview dauert ca. 1 Stunde. Sowohl ich bin gefragt, aber ich stelle
-Fragen zu Position. Mit Fragen habe ich eine Möglichkeit den Gespräch zu steuern ie. "haben Sie ein Monolith? Wollen Sie
-das zu microservices umbauen? Wie würden Sie vorgehen (ich habe nähmlich ein Vorschlag, und mein Erfahrung damit is
-PACE..)?".
+Ein Interview dauert ca. 1 Stunde. Welche konkrete Fragen darf ich erwarten?
+
+Laut Stellenausschreibung liegt Teamverantwortung im Bereich: Produkte Kartenautorisierung, 
+eBanking und Meldewesen. 
 
 Wichtig ist, dass ich mich mit Antworten identifizieren kann. Deswegen diese Loop:
+
 - vorschlag für Fragen von KI
 - mein Antwort
 - Feedback von KI, erweiterung/anpassung von Antwort
+- Mach hinweis darauf, wo meine Lücken sind.
 
-Gib mir ausführliche Antwort auf die Fragen. Nicht im Sinne von Text, aber im Sinne von Konzepten,
-die ich erwähnen soll. Welche Fragen soll ich bei Lösungsentwurf stellen? Welche Faktoren 
-spielen bei der Entscheidung eine Rolle. Was kann ich aus meinem vorherigen Erfahrung nutzen? 
+# Frage-Antwort Loop
+
+Unten findest du meine stichpunktartigen Gedanken zu einer Architekturaufgabe.
+
+Bitte gib mir dazu ein tiefgehendes, konzeptionelles Feedback. Mich interessiert kein langer Fließtext, sondern eine
+strukturierte Erweiterung meiner Punkte:
+
+Welche essenziellen Fragen muss ich beim Lösungsentwurf vorab stellen?
+
+Welche Faktoren und Trade-offs beeinflussen die finale Entscheidung?
+
+Wie kann ich diese Argumentation optimal mit Beispielen aus meiner bisherigen Praxiserfahrung untermauern?
+
+Welche wichtigen Software-Architekturkonzepte sollte ich unbedingt erwähnen?
+
+Erweitere meinen Antwort mit technische Begriffe, die für eBanking wichtig sind und dort oft benutzt werden?
+
+Hier ist mein Antwort:
+
+
+
